@@ -1,6 +1,6 @@
 # Simple IMDB Like Frontpage using Bootstrap
 
-## Hosted Link: https://kanishkkalyani.github.io/Tic-Tac-Toe/
+## Hosted Link: https://kanishkkalyani.github.io/imdb-frontpage/
 
 - A Simple Tic-Tac-Toe game.
 
